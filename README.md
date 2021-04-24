@@ -20,11 +20,11 @@ For using avtrack you need to have the "requests" library. You can install it us
 
 Keeping track and display every x seconds the status using name:
 
-> python avtrack.py -u <username> -v -d <seconds>
+> python avtrack.py -u _username_ -v -d <seconds>
  
 Keeping track and display only when the status changed using CID:
 
-> python avtrack.py -c <CID> -d 60
+> python avtrack.py -c _cid_ -d 60
  
 ## Screenshot
 
