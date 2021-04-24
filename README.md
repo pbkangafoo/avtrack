@@ -7,7 +7,9 @@ On the chat platform IMVU, people can change their status but you don't necessar
 
 ## Requirements
 
-For using avtrack you need to have the "requests" library. You can install it using pip: _python -m pip install requests_
+For using avtrack you need to have the "requests" library. You can install it using pip: 
+
+> _python -m pip install requests_
 
 ## Parameters
 
